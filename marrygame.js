@@ -1,0 +1,3 @@
+// marry js
+
+alert();
