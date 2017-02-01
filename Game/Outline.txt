@@ -1,0 +1,32 @@
+Game : Program Outline
+----------------------
+Title: Should I marry him?
+    
+Summary : A girl is trying to decided if she should marry a boy. this programs helps decided when is the right time with a calculator.  
+
+
+
+Gameworld
+----------
+
+
+Characters:                       Attributes 
+The Girl (You) :            name, age, house skills, adult skills, readyness
+
+The potiential Mate :       age, maturity level, his family, readyness
+
+Girl Freinds :              percent that is married already(best friend), peer presure
+
+Parents :                   tradition pressure, readyness
+
+
+
+
+
+
+Win  /  Loose
+-------------
+
+- Win: You ask him to marry when everyone is ready Or you don't ask because he is NOT ready.
+
+- Loose: asking him to marry when not everyone is ready. Not asking when everyone IS ready. 
